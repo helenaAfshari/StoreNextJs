@@ -4,9 +4,9 @@ import React from 'react'
 //ولی تو کل پوشه ها میشه ازش استفاده کرد
 function Home() {
   return (
-    <div>
-      
-    </div>
+    <p className='text-amber-400'>
+       gffgf
+    </p>
   )
 }
 
